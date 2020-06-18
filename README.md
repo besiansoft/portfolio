@@ -1,2 +1,3 @@
-# portfolio
-Portfolio
+# Besian Krasniqi Portfolio
+
+Using AWS and ReactJS
